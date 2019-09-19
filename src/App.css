@@ -31,3 +31,10 @@
     transform: rotate(360deg);
   }
 }
+
+span.s200{
+  background-color: #659e2c
+}
+.statusother{
+  background-color: darkorange
+}
